@@ -13767,6 +13767,4 @@ namespace FFlags {
          inline constexpr uintptr_t packetLossRatioAggregationTimeThresholdInSeconds = 0x77c87e8;
          inline constexpr uintptr_t shrinkStepsForLargeStreamingQueryAdjust = 0x77850f0;
          inline constexpr uintptr_t ttMetricP1 = 0x77b13c0;
-    }
-
 }
